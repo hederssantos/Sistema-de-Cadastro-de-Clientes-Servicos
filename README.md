@@ -28,5 +28,5 @@ Sistema para Cadastro de Clientes e Servicos
   <h3 align="center"> Preview: </h3>
   
   <p align="center">
-  <img src="..." alt=”my banner”>
+  <img src="https://raw.githubusercontent.com/hederssantos/Sistema-de-Cadastro-de-Clientes-Servicos/main/cadastro.gif" alt=”my banner”>
 </p>
