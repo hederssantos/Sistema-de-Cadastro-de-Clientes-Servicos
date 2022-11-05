@@ -16,13 +16,13 @@ Sistema para Cadastro de Clientes e Servicos
 
 <br />
 
- - Resources: Maven, lombok, h2database, Oauth2, security Jwt
+ - Resources: Maven, lombok, h2database, Oauth2, security Jwt, TypeScript
 <br />
 <br />
 
 -Frontend: Angular
 <br />
- - Resources: BootStrap, Jquery, Oauth2
+ - Resources: BootStrap, Jquery, Oauth2, TypeScript, CSS
 
 
   <h3 align="center"> Preview: </h3>
